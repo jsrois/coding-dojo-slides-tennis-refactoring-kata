@@ -66,5 +66,17 @@ _Improving the internal structure of code **without changing its behavior**_
 - Change the code step by step
 
 #HSLIDE
+## Tennis Refactoring Kata
+### 5': for setup
+
+#HSLIDE
+## Tennis Refactoring Kata
+### 10': what is wrong with this code?
+
+#HSLIDE
+## Tennis Refactoring Kata
+### This code requires **domain** (business) knowledge
+
+#HSLIDE
 ## Don't Focus on Getting it Done. Focus on Doing It Perfectly.
 
