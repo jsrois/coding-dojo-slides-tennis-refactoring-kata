@@ -4,19 +4,24 @@
 ## Why Coding Dojos?
 
 #HSLIDE
-## Why?
+## Why Coding Dojos?
 
 - Deliverate Practice
 - Focus on doing it perfectly, not getting it done
 
 #HSLIDE
+## Deliverate Practice
+![etudes](music_etudes.jpeg)
+
+
+#HSLIDE
 # Testing
 
 #HSLIDE
-# When to test?
+# When do we need tests?
 
 #HSLIDE
-## When to test? 
+## When do we need tests?
 
 - When adding new features (TDD)
 - Refactoring
@@ -24,7 +29,6 @@
 
 #HSLIDE
 # Refactoring
-
 
 #HSLIDE
 ## Refactoring
@@ -37,6 +41,8 @@ _**Improving** the internal structure of code without changing its behavior_
 #HSLIDE 
 ## Refactoring 
 _Improving the internal structure of code **without changing its behavior**_ 
+
+
 
 #HSLIDE 
 # Why refactoring
