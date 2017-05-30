@@ -12,7 +12,7 @@
 #HSLIDE
 ## Deliverate Practice
 ![etudes](music_etudes.jpeg)
-
+![orchestra](https://blair.vanderbilt.edu/images/ensembles/orchestra.JPG)
 
 #HSLIDE
 # Testing
