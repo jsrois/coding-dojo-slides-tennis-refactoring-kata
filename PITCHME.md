@@ -23,8 +23,7 @@
 ![dibujo_tec](https://i.ytimg.com/vi/tV7oMIKCGpo/maxresdefault.jpg)
 
 #HSLIDE
-## Coding Dojos
-Don't Focus on Getting it Done. Focus on Doing It Perfectly.
+##Don't Focus on Getting it Done. Focus on Doing It Perfectly.
 
 #HSLIDE
 # Testing
@@ -65,4 +64,7 @@ _Improving the internal structure of code **without changing its behavior**_
 - Start with the first version of the TennisGame
 - Discuss what you don't like
 - Change the code step by step
+
+#HSLIDE
+## Don't Focus on Getting it Done. Focus on Doing It Perfectly.
 
