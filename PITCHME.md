@@ -23,7 +23,8 @@
 ![dibujo_tec](https://i.ytimg.com/vi/tV7oMIKCGpo/maxresdefault.jpg)
 
 #HSLIDE
-## Deliverate Practice
+## Coding Dojos
+Don't Focus on Getting it Done. Focus on Doing It Perfectly.
 
 #HSLIDE
 # Testing
