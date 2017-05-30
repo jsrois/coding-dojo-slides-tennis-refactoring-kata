@@ -15,6 +15,16 @@
 ![orchestra](https://blair.vanderbilt.edu/images/ensembles/orchestra.JPG)
 
 #HSLIDE
+## Deliverate Practice
+![training_soccer](https://www.vigoe.es/media/k2/items/cache/7371c75eb67b3f9c2e0dcc9c27bb09c6_XL.jpg)
+![match](http://images1.minutemediacdn.com/production/912x516/5888f211f251d77f47000001.jpg)
+
+#HSLIDE
+## Deliverate Practice
+![dibujo_tec](https://i.ytimg.com/vi/tV7oMIKCGpo/maxresdefault.jpg)
+![arch](http://www.javacodegeeks.com/wp-content/uploads/2016/12/architecture.jpg)
+
+#HSLIDE
 # Testing
 
 #HSLIDE
