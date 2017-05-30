@@ -41,6 +41,10 @@
 #HSLIDE
 # Refactoring
 
+#HSLIDE 
+# Why refactoring?
+![wtfs_minute](https://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
+
 #HSLIDE
 ## Refactoring
 _Changing the internal structure of code without changing its behavior_
@@ -54,6 +58,10 @@ _**Improving** the internal structure of code without changing its behavior_
 _Improving the internal structure of code **without changing its behavior**_ 
 
 #HSLIDE 
-# Why refactoring
-![wtfs_minute](https://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
+## Tennis Refactoring Kata
+
+- **You already have the tests in place**
+- Start with the first version of the TennisGame
+- Discuss what you don't like
+- Change the code step by step
 
