@@ -81,6 +81,10 @@ Tests tell us if we break it.
 ### 10': what is wrong with this code?
 
 #HSLIDE
+## Spoiler alert! 
+Stop Reading until the Dojo!
+
+#HSLIDE
 ## Tennis Refactoring Kata
 ### PROBLEM: This code requires **domain** (business) knowledge
 
