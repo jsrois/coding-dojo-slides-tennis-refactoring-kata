@@ -23,6 +23,17 @@
 ![dibujo_tec](https://i.ytimg.com/vi/tV7oMIKCGpo/maxresdefault.jpg)
 
 #HSLIDE
+## Code Katas
+kata(型 or 形 literally: "form"), a Japanese word, are detailed choreographed patterns of movements practiced either solo or in pairs.
+![katas](https://i.ytimg.com/vi/sgN7fUGPgMM/hqdefault.jpg)
+
+#HSLIDE
+## Code Katas
+Code Kata (Dave Thomas, _The Pragmatic Programmer_)
+_A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition._
+
+
+#HSLIDE
 ##Don't Focus on Getting it Done. Focus on Doing It Perfectly.
 
 #HSLIDE
