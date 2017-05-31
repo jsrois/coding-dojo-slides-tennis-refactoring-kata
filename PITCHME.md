@@ -76,7 +76,9 @@ Tests tell us if we break it.
 
 
 #HSLIDE 
-## Tennis Refactoring Kata (@emilybache)
+## Tennis Refactoring Kata 
+
+Author: Emily Bache (@emilybache)
 
 https://github.com/emilybache/Tennis-Refactoring-Kata
 
