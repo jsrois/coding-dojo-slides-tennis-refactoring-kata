@@ -159,6 +159,5 @@ if winning_player.advantage_over(losing_player) > 2 \
 	and winning_player.score > FORTY:
  return self.victory_for(winning_player)
 # ... 
-return result
 ```
 
