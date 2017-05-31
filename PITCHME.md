@@ -93,14 +93,16 @@ Tests tell us if we break it.
 # Recap
 
 #HSLIDE
-#### Refactoring example: Tell, Don't Ask (OO)
+#### Refactoring example: Applying OO principles
+- Behaviour Encapsulation
+- Tell, Don't Ask
 
 #HSLIDE
-#### Refactoring example: Tell, Don't Ask (OO)
+#### Refactoring example: Applying OO principles
 > An object is a bundle of capabilities (Allen Holub)
 
 #HSLIDE
-#### Refactoring example: Tell, Don't Ask (OO)
+#### Refactoring example: Applying OO principles
 
 Before: 
 
@@ -113,7 +115,7 @@ def won_point(self, playerName):
 ```
 
 #HSLIDE
-### Refactoring example: Tell, Don't Ask (OO)
+### Refactoring example: Applying OO principles
 
 After:
 
@@ -122,3 +124,41 @@ def won_point(self, name):
     player = self.get_player_by(name)
     player.won_point()
 ```
+
+
+#HSLIDE
+#### Refactoring example: Applying OO principles
+
+Before: 
+
+```python
+#...
+
+elif (self.p1points >= 4 or self.p2points >= 4):
+    minusResult = self.p1points - self.p2points
+    if (minusResult == 1):
+        result = "Advantage " + self.player1Name
+    elif (minusResult == -1):
+        result = "Advantage " + self.player2Name
+    elif (minusResult >= 2):
+        result = "Win for " + self.player1Name
+    else:
+        result = "Win for " + self.player2Name
+# ... 
+return result
+```
+
+#HSLIDE
+### Refactoring example: Applying OO principles
+
+```python
+#...
+winning_player, losing_player = self.whos_winning()
+
+if winning_player.advantage_over(losing_player) > 2 \
+	and winning_player.score > FORTY:
+ return self.victory_for(winning_player)
+# ... 
+return result
+```
+
