@@ -58,6 +58,13 @@ _**Improving** the internal structure of code without changing its behavior_
 _Improving the internal structure of code **without changing its behavior**_ 
 
 #HSLIDE 
+## Refactoring 
+_Improving the internal structure of code **without breaking it**_
+
+Tests tell us if we break it.
+
+
+#HSLIDE 
 ## Tennis Refactoring Kata
 
 - **You already have the tests in place**
@@ -78,10 +85,22 @@ _Improving the internal structure of code **without changing its behavior**_
 ### PROBLEM: This code requires **domain** (business) knowledge
 
 #HSLIDE
-## Don't Focus on Getting it Done. Focus on Doing It Perfectly.
+# Let's go! And remember:
+
+> Don't Focus on Getting it Done. Focus on Doing It Perfectly
 
 #HSLIDE
-### Refactoring example: Tell, Don't Ask (OO)
+# Recap
+
+#HSLIDE
+#### Refactoring example: Tell, Don't Ask (OO)
+
+#HSLIDE
+#### Refactoring example: Tell, Don't Ask (OO)
+> An object is a bundle of capabilities (Allen Holub)
+
+#HSLIDE
+#### Refactoring example: Tell, Don't Ask (OO)
 
 Before: 
 
@@ -103,7 +122,3 @@ def won_point(self, name):
     player = self.get_player_by(name)
     player.won_point()
 ```
-
-
-
-
