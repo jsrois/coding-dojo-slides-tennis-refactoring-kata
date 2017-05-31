@@ -65,7 +65,9 @@ Tests tell us if we break it.
 
 
 #HSLIDE 
-## Tennis Refactoring Kata
+## Tennis Refactoring Kata (@emilybache)
+
+https://github.com/emilybache/Tennis-Refactoring-Kata
 
 - **You already have the tests in place**
 - Start with the first version of the TennisGame
@@ -94,7 +96,7 @@ Stop Reading until the Dojo!
 > Don't Focus on Getting it Done. Focus on Doing It Perfectly
 
 #HSLIDE
-# Recap
+# (20') Recap: what did you do?
 
 #HSLIDE
 #### Refactoring example: Applying OO principles
