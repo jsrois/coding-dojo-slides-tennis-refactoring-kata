@@ -75,8 +75,35 @@ _Improving the internal structure of code **without changing its behavior**_
 
 #HSLIDE
 ## Tennis Refactoring Kata
-### This code requires **domain** (business) knowledge
+### PROBLEM: This code requires **domain** (business) knowledge
 
 #HSLIDE
 ## Don't Focus on Getting it Done. Focus on Doing It Perfectly.
+
+#HSLIDE
+### Refactoring example: Tell, Don't Ask (OO)
+
+Before: 
+
+```python
+def won_point(self, playerName):
+    if playerName == self.player1Name:
+      self.p1points += 1
+    else:
+      self.p2points += 1
+```
+
+#HSLIDE
+### Refactoring example: Tell, Don't Ask (OO)
+
+After:
+
+```python
+def won_point(self, name):
+    player = self.get_player_by(name)
+    player.won_point()
+```
+
+
+
 
